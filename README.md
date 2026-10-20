@@ -1,47 +1,64 @@
 # escape-game
 # Titre de l'escape game
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Mario : Le cauchemar d’Halloween au château de Bowser
 
-## Le public cible
+Projet conçu en équipe avec : [Kenneth et Lennox]
 
-- Pour qui : ...
-- Ce qui est important pour eux : ...
+Le public cible
 
-## La conception
+-Pour qui : Les adolescents et les jeunes adultes qui aiment Mario et Halloween.
 
-- L'intrigue : ...
-- Le nombre d'énigmes : ...
-- Le type d'énigmes : ...
-- Les besoins matériels : ...
-- Les besoins technologiques : ...
-- Les besoins humains : ...
-- Le plan des salles (croquis) :
+-Ce qui est important pour eux : S’amuser resoudre des énigmes et vivre une aventure effrayante.
 
-![Plan des salles](plan-salles.jpg)
+La conception
 
-## Les éléments importants
+-L’intrigue : Bowser a capturé Peach dans son château hanté. Les joueurs doivent aider Mario à la sauver avant minuit.
 
-- Engagement sensoriel : ...
-- Conception spatiale : ...
-- Rétroaction : ...
-- Technologie invisible : ...
+-Le nombre d’énigmes : 5 énigmes.
 
-## Les risques et la sécurité
+-Le type d’énigmes : Codes secrets, objets cachés, messages à déchiffrer et cadenas.
 
-- Risque 1 : ... (solution : ...)
-- Risque 2 : ... (solution : ...)
+-Les besoins matériels : Citrouilles, cadenas, clés, fausses toiles d’araignée et décorations de fantômes.
 
-## La promotion
+-Les besoins technologiques : Haut-parleurs, lumières colorées et minuterie.
 
-- Stratégie 1 : ... (pourquoi elle rejoint le public cible)
-- Stratégie 2 : ... (pourquoi elle rejoint le public cible)
+-Les besoins humains : Deux personnes pour surveiller le jeu et aider les joueurs.
 
-## Les ressources
+-Le plan des salles (croquis) : Une cellule hantée, un couloir de fantômes, le laboratoire de Bowser et la chambre de Peach.
 
-![Image d'ambiance](ambiance.jpg)
 
-- Son d'ambiance : [titre du son](lien)
-- Crédits :
-    - « Titre de l'image », par ..., [Source](lien), [Licence](lien)
-    - « Titre du son », par ..., [Source](lien), [Licence](lien)
+
+Les éléments importants
+
+-Engagement sensoriel : Des sons de fantômes et des lumières effrayantes.
+
+-Conception spatiale : Quatre salles décorées sur le thème d’Halloween.
+
+-Rétroaction : Des sons ou des lumières indiquent la réussite d’une énigme.
+
+-Technologie invisible : Les haut-parleurs et les lumières sont cachés dans les décorations.
+
+Les risques et la sécurité
+
+-Risque 1 : Les joueurs pourraient trébucher dans le noir (solution : garder les passages dégagés).
+
+-Risque 2 : Les joueurs pourraient avoir trop peur (solution : adapter les effets et permettre de quitter le jeu).
+
+La promotion
+
+-Stratégie 1 : Une vidéo TikTok montrant le château hanté (pour attirer les jeunes).
+
+-Stratégie 2 : Des affiches dans les écoles (pour rejoindre les amateurs de jeux vidéo).
+
+Les ressources
+
+
+
+Son d'ambiance : Musique mystérieuse d’Halloween (Pixabay Music).
+
+Crédits :
+
+« Image d’ambiance », par [nom de l’auteur], Source, Licence.
+
+« Musique d’Halloween », par [nom de l’auteur], Source, Licence.
